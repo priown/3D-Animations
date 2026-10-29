@@ -6,9 +6,9 @@ Three 3D animations built in the browser with JavaScript and [Three.js](https://
 2. **Car moving to and fro**
 3. **Moon orbiting the Earth**
 
-**Live demo:** [add your GitHub Pages link here]
+**Live demo:** https://priown.github.io/3D-Animations/
 
-**Author:** [Your name] · [Course code]
+**Author:** Aluko Promise · CPE/2022/1100
 
 ---
 
